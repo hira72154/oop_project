@@ -1,0 +1,4 @@
+C:/Users/zi/Desktop/OOP PROJECT/oop_project/build/CMakeFiles/oop_library.dir
+C:/Users/zi/Desktop/OOP PROJECT/oop_project/build/CMakeFiles/main.dir
+C:/Users/zi/Desktop/OOP PROJECT/oop_project/build/CMakeFiles/edit_cache.dir
+C:/Users/zi/Desktop/OOP PROJECT/oop_project/build/CMakeFiles/rebuild_cache.dir

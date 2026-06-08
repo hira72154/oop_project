@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/zi/Desktop/OOP PROJECT/oop_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/zi/Desktop/OOP PROJECT/oop_project/include\" -g -std=gnu++17 -o CMakeFiles\\oop_library.dir\\src\\AttendanceSystem.cpp.obj -c \"C:\\Users\\zi\\Desktop\\OOP PROJECT\\oop_project\\src\\AttendanceSystem.cpp\"",
+  "file": "C:/Users/zi/Desktop/OOP PROJECT/oop_project/src/AttendanceSystem.cpp",
+  "output": "C:/Users/zi/Desktop/OOP PROJECT/oop_project/build/CMakeFiles/oop_library.dir/src/AttendanceSystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/zi/Desktop/OOP PROJECT/oop_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/zi/Desktop/OOP PROJECT/oop_project/include\" -g -std=gnu++17 -o CMakeFiles\\main.dir\\app\\main.cpp.obj -c \"C:\\Users\\zi\\Desktop\\OOP PROJECT\\oop_project\\app\\main.cpp\"",
+  "file": "C:/Users/zi/Desktop/OOP PROJECT/oop_project/app/main.cpp",
+  "output": "C:/Users/zi/Desktop/OOP PROJECT/oop_project/build/CMakeFiles/main.dir/app/main.cpp.obj"
+}
+]

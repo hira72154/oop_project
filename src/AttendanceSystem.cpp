@@ -1,14 +1,8 @@
 #include "../include/AttendanceSystem.h"
-
-// ═══════════════════════════════════════════════════════════════
 //  Person
-// ═══════════════════════════════════════════════════════════════
 Person::Person(string name, string id) : name(name), id(id) {}
 Person::~Person() {}
-
-// ═══════════════════════════════════════════════════════════════
 //  Student
-// ═══════════════════════════════════════════════════════════════
 Student::Student(string name, string id, int rollNo,
                  string department, string semester,
                  string managedBy)

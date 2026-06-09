@@ -1,3 +1,4 @@
 TYPE,NAME,ID,FIELD1,FIELD2,FIELD3,FIELD4,FIELD5,FIELD6,FIELD7
-STUDENT,Hira Nadeem,384,384,AI,2,0.00,5,0,shabban
+STUDENT,Hira Nadeem,384,384,AI,2,100.00,5,5,shabban
 TEACHER,Shabban satti,shabban,OOP,PROFESSOR,shabban,shabban123
+TEACHER,Irfan Qadir,12345,CALCULUS,Professor,irfan,irfan123

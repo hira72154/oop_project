@@ -16,7 +16,7 @@ using namespace std;
 const int TOTAL_CLASSES = 5;
 const float MIN_ATTENDANCE = 75.0f;
 
-// ─── Exception Template ────────────────────────────────────────────────────
+// ─── Exception Template ─────
 template <typename T>
 class AttendanceException
 {

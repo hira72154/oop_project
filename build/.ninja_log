@@ -1,5 +1,6 @@
 # ninja log v7
-77	4477	8026443527544409	CMakeFiles/main.dir/app/main.cpp.obj	debfa2582601a47a
-5775	6981	8026443584521300	liboop_library.a	99f2eee885d4d06f
+396	4567	8026999511150675	CMakeFiles/main.dir/app/main.cpp.obj	debfa2582601a47a
+6142	7354	8026999568598543	liboop_library.a	99f2eee885d4d06f
 6982	8064	8026443596598687	main.exe	cf8ba7ab820929c3
-64	5774	8026443527392142	CMakeFiles/oop_library.dir/src/AttendanceSystem.cpp.obj	9d5f6da29191f84a
+102	6141	8026999508207631	CMakeFiles/oop_library.dir/src/AttendanceSystem.cpp.obj	9d5f6da29191f84a
+28	972	8027000257249506	main.exe	cf8ba7ab820929c3
